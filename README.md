@@ -1,6 +1,7 @@
 # hello_world
 
-Hello humans.
+Hello humans
 
-Usman is here. I like to work and I love to see stars 🌟.
-Because I see the world in them
+Usman is here, I like to work and I love to see stars 🌟.
+Because i see the world in them.
+
